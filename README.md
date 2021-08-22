@@ -1,16 +1,16 @@
 # Challenger
 
-#To Install
+- To Install
 `git clone git@github.com:V0lkanTas/Challenger.git`
 
-#To Install Dependencies
+- To Install Dependencies
 `brew install jq`
 
-#To submit an answer
+- To submit an answer
 `./Answer "Your Answer Here"`
 
-#To get the questions
+- To get the questions
 `./Question`
 
-#To See Stats and Winners
+- To See Stats and Winners
 `./Winners`

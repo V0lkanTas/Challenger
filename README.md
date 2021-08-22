@@ -1,7 +1,7 @@
 # Challenger
 
 #To submit an answer
-./Answer <Your Answer Here>
+./Answer "Your Answer Here"
 
 #To get the questions
 ./Question

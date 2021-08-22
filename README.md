@@ -12,5 +12,5 @@
 - To get the questions
 `./Question`
 
-- To See Stats and Winners
+- To see stats and winners
 `./Winners`

@@ -1,4 +1,4 @@
 #!/bin/bash
 
 curl -s -w "\n" -d '{"name":"'"$(whoami)"'", "answer":"'"${1}"'"}' -H "Content-Type: application/json" \
-	http://66.228.56.67/answer | jq
+	http://66.228.56.67:8081/answer | jq
